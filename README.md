@@ -129,8 +129,9 @@ The **EU Platform Workers Directive (EU) 2024/2831** — passed October 2024 —
 
 ## 👩‍💻 About
 
-**Sanskruti Dwivedi** — MSc Business Analytics, University of Galway  
-[LinkedIn](https://www.linkedin.com/in/sanskruti-dwivedi) · [GitHub](https://github.com/YOUR_USERNAME)
+**Sanskruti Dwivedi** — MSc Business Analytics, University of Galway 
+
+[LinkedIn]([https://www.linkedin.com/in/sanskruti-dwivedi](https://www.linkedin.com/in/sanskruti-dwivedi-01b179244/)) · [GitHub](https://github.com/dwivedisanskruti1)
 
 ---
 
