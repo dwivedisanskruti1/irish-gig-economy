@@ -1,0 +1,481 @@
+date,term,interest
+2018-01-01,Deliveroo Ireland,34
+2018-01-01,Fiverr Ireland,30
+2018-01-01,side hustle Ireland,35
+2018-01-01,zero hours contract Ireland,29
+2018-01-01,gig work Ireland,38
+2018-02-01,Deliveroo Ireland,38
+2018-02-01,Fiverr Ireland,38
+2018-02-01,side hustle Ireland,46
+2018-02-01,zero hours contract Ireland,34
+2018-02-01,gig work Ireland,34
+2018-03-01,Deliveroo Ireland,43
+2018-03-01,Fiverr Ireland,36
+2018-03-01,side hustle Ireland,47
+2018-03-01,zero hours contract Ireland,44
+2018-03-01,gig work Ireland,37
+2018-04-01,Deliveroo Ireland,29
+2018-04-01,Fiverr Ireland,31
+2018-04-01,side hustle Ireland,36
+2018-04-01,zero hours contract Ireland,40
+2018-04-01,gig work Ireland,44
+2018-05-01,Deliveroo Ireland,35
+2018-05-01,Fiverr Ireland,31
+2018-05-01,side hustle Ireland,35
+2018-05-01,zero hours contract Ireland,36
+2018-05-01,gig work Ireland,42
+2018-06-01,Deliveroo Ireland,38
+2018-06-01,Fiverr Ireland,27
+2018-06-01,side hustle Ireland,35
+2018-06-01,zero hours contract Ireland,28
+2018-06-01,gig work Ireland,28
+2018-07-01,Deliveroo Ireland,34
+2018-07-01,Fiverr Ireland,28
+2018-07-01,side hustle Ireland,32
+2018-07-01,zero hours contract Ireland,31
+2018-07-01,gig work Ireland,28
+2018-08-01,Deliveroo Ireland,28
+2018-08-01,Fiverr Ireland,27
+2018-08-01,side hustle Ireland,21
+2018-08-01,zero hours contract Ireland,29
+2018-08-01,gig work Ireland,23
+2018-09-01,Deliveroo Ireland,21
+2018-09-01,Fiverr Ireland,30
+2018-09-01,side hustle Ireland,23
+2018-09-01,zero hours contract Ireland,31
+2018-09-01,gig work Ireland,31
+2018-10-01,Deliveroo Ireland,25
+2018-10-01,Fiverr Ireland,33
+2018-10-01,side hustle Ireland,26
+2018-10-01,zero hours contract Ireland,27
+2018-10-01,gig work Ireland,30
+2018-11-01,Deliveroo Ireland,41
+2018-11-01,Fiverr Ireland,36
+2018-11-01,side hustle Ireland,31
+2018-11-01,zero hours contract Ireland,32
+2018-11-01,gig work Ireland,23
+2018-12-01,Deliveroo Ireland,41
+2018-12-01,Fiverr Ireland,40
+2018-12-01,side hustle Ireland,37
+2018-12-01,zero hours contract Ireland,39
+2018-12-01,gig work Ireland,25
+2019-01-01,Deliveroo Ireland,35
+2019-01-01,Fiverr Ireland,49
+2019-01-01,side hustle Ireland,39
+2019-01-01,zero hours contract Ireland,44
+2019-01-01,gig work Ireland,36
+2019-02-01,Deliveroo Ireland,41
+2019-02-01,Fiverr Ireland,53
+2019-02-01,side hustle Ireland,43
+2019-02-01,zero hours contract Ireland,46
+2019-02-01,gig work Ireland,44
+2019-03-01,Deliveroo Ireland,46
+2019-03-01,Fiverr Ireland,46
+2019-03-01,side hustle Ireland,35
+2019-03-01,zero hours contract Ireland,48
+2019-03-01,gig work Ireland,43
+2019-04-01,Deliveroo Ireland,54
+2019-04-01,Fiverr Ireland,41
+2019-04-01,side hustle Ireland,42
+2019-04-01,zero hours contract Ireland,57
+2019-04-01,gig work Ireland,48
+2019-05-01,Deliveroo Ireland,37
+2019-05-01,Fiverr Ireland,43
+2019-05-01,side hustle Ireland,36
+2019-05-01,zero hours contract Ireland,44
+2019-05-01,gig work Ireland,38
+2019-06-01,Deliveroo Ireland,48
+2019-06-01,Fiverr Ireland,41
+2019-06-01,side hustle Ireland,41
+2019-06-01,zero hours contract Ireland,44
+2019-06-01,gig work Ireland,44
+2019-07-01,Deliveroo Ireland,32
+2019-07-01,Fiverr Ireland,36
+2019-07-01,side hustle Ireland,33
+2019-07-01,zero hours contract Ireland,46
+2019-07-01,gig work Ireland,24
+2019-08-01,Deliveroo Ireland,30
+2019-08-01,Fiverr Ireland,33
+2019-08-01,side hustle Ireland,34
+2019-08-01,zero hours contract Ireland,34
+2019-08-01,gig work Ireland,33
+2019-09-01,Deliveroo Ireland,32
+2019-09-01,Fiverr Ireland,34
+2019-09-01,side hustle Ireland,35
+2019-09-01,zero hours contract Ireland,41
+2019-09-01,gig work Ireland,41
+2019-10-01,Deliveroo Ireland,36
+2019-10-01,Fiverr Ireland,32
+2019-10-01,side hustle Ireland,32
+2019-10-01,zero hours contract Ireland,28
+2019-10-01,gig work Ireland,39
+2019-11-01,Deliveroo Ireland,37
+2019-11-01,Fiverr Ireland,40
+2019-11-01,side hustle Ireland,39
+2019-11-01,zero hours contract Ireland,34
+2019-11-01,gig work Ireland,33
+2019-12-01,Deliveroo Ireland,40
+2019-12-01,Fiverr Ireland,45
+2019-12-01,side hustle Ireland,42
+2019-12-01,zero hours contract Ireland,33
+2019-12-01,gig work Ireland,37
+2020-01-01,Deliveroo Ireland,60
+2020-01-01,Fiverr Ireland,62
+2020-01-01,side hustle Ireland,64
+2020-01-01,zero hours contract Ireland,62
+2020-01-01,gig work Ireland,60
+2020-02-01,Deliveroo Ireland,64
+2020-02-01,Fiverr Ireland,66
+2020-02-01,side hustle Ireland,68
+2020-02-01,zero hours contract Ireland,64
+2020-02-01,gig work Ireland,60
+2020-03-01,Deliveroo Ireland,67
+2020-03-01,Fiverr Ireland,64
+2020-03-01,side hustle Ireland,69
+2020-03-01,zero hours contract Ireland,75
+2020-03-01,gig work Ireland,61
+2020-04-01,Deliveroo Ireland,73
+2020-04-01,Fiverr Ireland,69
+2020-04-01,side hustle Ireland,72
+2020-04-01,zero hours contract Ireland,65
+2020-04-01,gig work Ireland,60
+2020-05-01,Deliveroo Ireland,66
+2020-05-01,Fiverr Ireland,72
+2020-05-01,side hustle Ireland,59
+2020-05-01,zero hours contract Ireland,60
+2020-05-01,gig work Ireland,68
+2020-06-01,Deliveroo Ireland,59
+2020-06-01,Fiverr Ireland,70
+2020-06-01,side hustle Ireland,65
+2020-06-01,zero hours contract Ireland,58
+2020-06-01,gig work Ireland,59
+2020-07-01,Deliveroo Ireland,56
+2020-07-01,Fiverr Ireland,58
+2020-07-01,side hustle Ireland,60
+2020-07-01,zero hours contract Ireland,59
+2020-07-01,gig work Ireland,53
+2020-08-01,Deliveroo Ireland,61
+2020-08-01,Fiverr Ireland,55
+2020-08-01,side hustle Ireland,51
+2020-08-01,zero hours contract Ireland,54
+2020-08-01,gig work Ireland,61
+2020-09-01,Deliveroo Ireland,57
+2020-09-01,Fiverr Ireland,57
+2020-09-01,side hustle Ireland,50
+2020-09-01,zero hours contract Ireland,56
+2020-09-01,gig work Ireland,61
+2020-10-01,Deliveroo Ireland,49
+2020-10-01,Fiverr Ireland,56
+2020-10-01,side hustle Ireland,61
+2020-10-01,zero hours contract Ireland,58
+2020-10-01,gig work Ireland,52
+2020-11-01,Deliveroo Ireland,63
+2020-11-01,Fiverr Ireland,55
+2020-11-01,side hustle Ireland,57
+2020-11-01,zero hours contract Ireland,57
+2020-11-01,gig work Ireland,69
+2020-12-01,Deliveroo Ireland,58
+2020-12-01,Fiverr Ireland,58
+2020-12-01,side hustle Ireland,67
+2020-12-01,zero hours contract Ireland,67
+2020-12-01,gig work Ireland,64
+2021-01-01,Deliveroo Ireland,71
+2021-01-01,Fiverr Ireland,65
+2021-01-01,side hustle Ireland,71
+2021-01-01,zero hours contract Ireland,72
+2021-01-01,gig work Ireland,77
+2021-02-01,Deliveroo Ireland,84
+2021-02-01,Fiverr Ireland,73
+2021-02-01,side hustle Ireland,68
+2021-02-01,zero hours contract Ireland,76
+2021-02-01,gig work Ireland,74
+2021-03-01,Deliveroo Ireland,75
+2021-03-01,Fiverr Ireland,68
+2021-03-01,side hustle Ireland,77
+2021-03-01,zero hours contract Ireland,78
+2021-03-01,gig work Ireland,81
+2021-04-01,Deliveroo Ireland,73
+2021-04-01,Fiverr Ireland,72
+2021-04-01,side hustle Ireland,73
+2021-04-01,zero hours contract Ireland,81
+2021-04-01,gig work Ireland,83
+2021-05-01,Deliveroo Ireland,79
+2021-05-01,Fiverr Ireland,77
+2021-05-01,side hustle Ireland,74
+2021-05-01,zero hours contract Ireland,74
+2021-05-01,gig work Ireland,75
+2021-06-01,Deliveroo Ireland,69
+2021-06-01,Fiverr Ireland,75
+2021-06-01,side hustle Ireland,62
+2021-06-01,zero hours contract Ireland,63
+2021-06-01,gig work Ireland,62
+2021-07-01,Deliveroo Ireland,63
+2021-07-01,Fiverr Ireland,74
+2021-07-01,side hustle Ireland,61
+2021-07-01,zero hours contract Ireland,61
+2021-07-01,gig work Ireland,63
+2021-08-01,Deliveroo Ireland,71
+2021-08-01,Fiverr Ireland,72
+2021-08-01,side hustle Ireland,70
+2021-08-01,zero hours contract Ireland,70
+2021-08-01,gig work Ireland,73
+2021-09-01,Deliveroo Ireland,56
+2021-09-01,Fiverr Ireland,59
+2021-09-01,side hustle Ireland,61
+2021-09-01,zero hours contract Ireland,65
+2021-09-01,gig work Ireland,65
+2021-10-01,Deliveroo Ireland,67
+2021-10-01,Fiverr Ireland,71
+2021-10-01,side hustle Ireland,57
+2021-10-01,zero hours contract Ireland,66
+2021-10-01,gig work Ireland,68
+2021-11-01,Deliveroo Ireland,69
+2021-11-01,Fiverr Ireland,71
+2021-11-01,side hustle Ireland,75
+2021-11-01,zero hours contract Ireland,70
+2021-11-01,gig work Ireland,81
+2021-12-01,Deliveroo Ireland,80
+2021-12-01,Fiverr Ireland,76
+2021-12-01,side hustle Ireland,77
+2021-12-01,zero hours contract Ireland,79
+2021-12-01,gig work Ireland,83
+2022-01-01,Deliveroo Ireland,66
+2022-01-01,Fiverr Ireland,62
+2022-01-01,side hustle Ireland,56
+2022-01-01,zero hours contract Ireland,62
+2022-01-01,gig work Ireland,63
+2022-02-01,Deliveroo Ireland,67
+2022-02-01,Fiverr Ireland,60
+2022-02-01,side hustle Ireland,67
+2022-02-01,zero hours contract Ireland,67
+2022-02-01,gig work Ireland,57
+2022-03-01,Deliveroo Ireland,59
+2022-03-01,Fiverr Ireland,71
+2022-03-01,side hustle Ireland,61
+2022-03-01,zero hours contract Ireland,73
+2022-03-01,gig work Ireland,64
+2022-04-01,Deliveroo Ireland,66
+2022-04-01,Fiverr Ireland,66
+2022-04-01,side hustle Ireland,61
+2022-04-01,zero hours contract Ireland,71
+2022-04-01,gig work Ireland,63
+2022-05-01,Deliveroo Ireland,62
+2022-05-01,Fiverr Ireland,52
+2022-05-01,side hustle Ireland,55
+2022-05-01,zero hours contract Ireland,68
+2022-05-01,gig work Ireland,62
+2022-06-01,Deliveroo Ireland,56
+2022-06-01,Fiverr Ireland,56
+2022-06-01,side hustle Ireland,61
+2022-06-01,zero hours contract Ireland,65
+2022-06-01,gig work Ireland,56
+2022-07-01,Deliveroo Ireland,61
+2022-07-01,Fiverr Ireland,54
+2022-07-01,side hustle Ireland,58
+2022-07-01,zero hours contract Ireland,46
+2022-07-01,gig work Ireland,47
+2022-08-01,Deliveroo Ireland,57
+2022-08-01,Fiverr Ireland,54
+2022-08-01,side hustle Ireland,55
+2022-08-01,zero hours contract Ireland,47
+2022-08-01,gig work Ireland,51
+2022-09-01,Deliveroo Ireland,44
+2022-09-01,Fiverr Ireland,48
+2022-09-01,side hustle Ireland,52
+2022-09-01,zero hours contract Ireland,54
+2022-09-01,gig work Ireland,49
+2022-10-01,Deliveroo Ireland,57
+2022-10-01,Fiverr Ireland,54
+2022-10-01,side hustle Ireland,53
+2022-10-01,zero hours contract Ireland,54
+2022-10-01,gig work Ireland,64
+2022-11-01,Deliveroo Ireland,57
+2022-11-01,Fiverr Ireland,62
+2022-11-01,side hustle Ireland,60
+2022-11-01,zero hours contract Ireland,56
+2022-11-01,gig work Ireland,50
+2022-12-01,Deliveroo Ireland,59
+2022-12-01,Fiverr Ireland,62
+2022-12-01,side hustle Ireland,61
+2022-12-01,zero hours contract Ireland,68
+2022-12-01,gig work Ireland,58
+2023-01-01,Deliveroo Ireland,66
+2023-01-01,Fiverr Ireland,69
+2023-01-01,side hustle Ireland,65
+2023-01-01,zero hours contract Ireland,71
+2023-01-01,gig work Ireland,61
+2023-02-01,Deliveroo Ireland,62
+2023-02-01,Fiverr Ireland,69
+2023-02-01,side hustle Ireland,70
+2023-02-01,zero hours contract Ireland,71
+2023-02-01,gig work Ireland,71
+2023-03-01,Deliveroo Ireland,70
+2023-03-01,Fiverr Ireland,64
+2023-03-01,side hustle Ireland,71
+2023-03-01,zero hours contract Ireland,66
+2023-03-01,gig work Ireland,72
+2023-04-01,Deliveroo Ireland,66
+2023-04-01,Fiverr Ireland,73
+2023-04-01,side hustle Ireland,79
+2023-04-01,zero hours contract Ireland,67
+2023-04-01,gig work Ireland,65
+2023-05-01,Deliveroo Ireland,74
+2023-05-01,Fiverr Ireland,78
+2023-05-01,side hustle Ireland,62
+2023-05-01,zero hours contract Ireland,68
+2023-05-01,gig work Ireland,71
+2023-06-01,Deliveroo Ireland,64
+2023-06-01,Fiverr Ireland,56
+2023-06-01,side hustle Ireland,58
+2023-06-01,zero hours contract Ireland,59
+2023-06-01,gig work Ireland,60
+2023-07-01,Deliveroo Ireland,62
+2023-07-01,Fiverr Ireland,67
+2023-07-01,side hustle Ireland,55
+2023-07-01,zero hours contract Ireland,58
+2023-07-01,gig work Ireland,56
+2023-08-01,Deliveroo Ireland,61
+2023-08-01,Fiverr Ireland,55
+2023-08-01,side hustle Ireland,54
+2023-08-01,zero hours contract Ireland,51
+2023-08-01,gig work Ireland,66
+2023-09-01,Deliveroo Ireland,70
+2023-09-01,Fiverr Ireland,59
+2023-09-01,side hustle Ireland,66
+2023-09-01,zero hours contract Ireland,56
+2023-09-01,gig work Ireland,59
+2023-10-01,Deliveroo Ireland,64
+2023-10-01,Fiverr Ireland,57
+2023-10-01,side hustle Ireland,60
+2023-10-01,zero hours contract Ireland,59
+2023-10-01,gig work Ireland,63
+2023-11-01,Deliveroo Ireland,64
+2023-11-01,Fiverr Ireland,60
+2023-11-01,side hustle Ireland,62
+2023-11-01,zero hours contract Ireland,70
+2023-11-01,gig work Ireland,67
+2023-12-01,Deliveroo Ireland,71
+2023-12-01,Fiverr Ireland,80
+2023-12-01,side hustle Ireland,63
+2023-12-01,zero hours contract Ireland,72
+2023-12-01,gig work Ireland,69
+2024-01-01,Deliveroo Ireland,75
+2024-01-01,Fiverr Ireland,74
+2024-01-01,side hustle Ireland,70
+2024-01-01,zero hours contract Ireland,68
+2024-01-01,gig work Ireland,73
+2024-02-01,Deliveroo Ireland,73
+2024-02-01,Fiverr Ireland,75
+2024-02-01,side hustle Ireland,81
+2024-02-01,zero hours contract Ireland,70
+2024-02-01,gig work Ireland,76
+2024-03-01,Deliveroo Ireland,83
+2024-03-01,Fiverr Ireland,76
+2024-03-01,side hustle Ireland,86
+2024-03-01,zero hours contract Ireland,70
+2024-03-01,gig work Ireland,87
+2024-04-01,Deliveroo Ireland,78
+2024-04-01,Fiverr Ireland,71
+2024-04-01,side hustle Ireland,82
+2024-04-01,zero hours contract Ireland,80
+2024-04-01,gig work Ireland,85
+2024-05-01,Deliveroo Ireland,68
+2024-05-01,Fiverr Ireland,70
+2024-05-01,side hustle Ireland,79
+2024-05-01,zero hours contract Ireland,88
+2024-05-01,gig work Ireland,78
+2024-06-01,Deliveroo Ireland,76
+2024-06-01,Fiverr Ireland,68
+2024-06-01,side hustle Ireland,71
+2024-06-01,zero hours contract Ireland,69
+2024-06-01,gig work Ireland,74
+2024-07-01,Deliveroo Ireland,73
+2024-07-01,Fiverr Ireland,69
+2024-07-01,side hustle Ireland,72
+2024-07-01,zero hours contract Ireland,68
+2024-07-01,gig work Ireland,75
+2024-08-01,Deliveroo Ireland,62
+2024-08-01,Fiverr Ireland,73
+2024-08-01,side hustle Ireland,62
+2024-08-01,zero hours contract Ireland,66
+2024-08-01,gig work Ireland,60
+2024-09-01,Deliveroo Ireland,68
+2024-09-01,Fiverr Ireland,66
+2024-09-01,side hustle Ireland,69
+2024-09-01,zero hours contract Ireland,57
+2024-09-01,gig work Ireland,66
+2024-10-01,Deliveroo Ireland,69
+2024-10-01,Fiverr Ireland,62
+2024-10-01,side hustle Ireland,70
+2024-10-01,zero hours contract Ireland,56
+2024-10-01,gig work Ireland,66
+2024-11-01,Deliveroo Ireland,78
+2024-11-01,Fiverr Ireland,70
+2024-11-01,side hustle Ireland,67
+2024-11-01,zero hours contract Ireland,70
+2024-11-01,gig work Ireland,71
+2024-12-01,Deliveroo Ireland,80
+2024-12-01,Fiverr Ireland,76
+2024-12-01,side hustle Ireland,79
+2024-12-01,zero hours contract Ireland,76
+2024-12-01,gig work Ireland,71
+2025-01-01,Deliveroo Ireland,73
+2025-01-01,Fiverr Ireland,82
+2025-01-01,side hustle Ireland,67
+2025-01-01,zero hours contract Ireland,71
+2025-01-01,gig work Ireland,73
+2025-02-01,Deliveroo Ireland,87
+2025-02-01,Fiverr Ireland,76
+2025-02-01,side hustle Ireland,86
+2025-02-01,zero hours contract Ireland,78
+2025-02-01,gig work Ireland,82
+2025-03-01,Deliveroo Ireland,84
+2025-03-01,Fiverr Ireland,84
+2025-03-01,side hustle Ireland,82
+2025-03-01,zero hours contract Ireland,77
+2025-03-01,gig work Ireland,85
+2025-04-01,Deliveroo Ireland,87
+2025-04-01,Fiverr Ireland,88
+2025-04-01,side hustle Ireland,85
+2025-04-01,zero hours contract Ireland,86
+2025-04-01,gig work Ireland,80
+2025-05-01,Deliveroo Ireland,84
+2025-05-01,Fiverr Ireland,84
+2025-05-01,side hustle Ireland,80
+2025-05-01,zero hours contract Ireland,82
+2025-05-01,gig work Ireland,82
+2025-06-01,Deliveroo Ireland,81
+2025-06-01,Fiverr Ireland,71
+2025-06-01,side hustle Ireland,71
+2025-06-01,zero hours contract Ireland,71
+2025-06-01,gig work Ireland,76
+2025-07-01,Deliveroo Ireland,77
+2025-07-01,Fiverr Ireland,64
+2025-07-01,side hustle Ireland,75
+2025-07-01,zero hours contract Ireland,81
+2025-07-01,gig work Ireland,76
+2025-08-01,Deliveroo Ireland,63
+2025-08-01,Fiverr Ireland,75
+2025-08-01,side hustle Ireland,74
+2025-08-01,zero hours contract Ireland,71
+2025-08-01,gig work Ireland,74
+2025-09-01,Deliveroo Ireland,65
+2025-09-01,Fiverr Ireland,72
+2025-09-01,side hustle Ireland,74
+2025-09-01,zero hours contract Ireland,69
+2025-09-01,gig work Ireland,70
+2025-10-01,Deliveroo Ireland,71
+2025-10-01,Fiverr Ireland,71
+2025-10-01,side hustle Ireland,70
+2025-10-01,zero hours contract Ireland,70
+2025-10-01,gig work Ireland,76
+2025-11-01,Deliveroo Ireland,68
+2025-11-01,Fiverr Ireland,78
+2025-11-01,side hustle Ireland,80
+2025-11-01,zero hours contract Ireland,70
+2025-11-01,gig work Ireland,77
+2025-12-01,Deliveroo Ireland,77
+2025-12-01,Fiverr Ireland,87
+2025-12-01,side hustle Ireland,81
+2025-12-01,zero hours contract Ireland,89
+2025-12-01,gig work Ireland,88

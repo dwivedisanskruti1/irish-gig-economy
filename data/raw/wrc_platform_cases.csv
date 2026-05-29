@@ -1,0 +1,351 @@
+case_id,year,county,sector,platform,claimant_age_band,outcome,worker_won,claim_type,duration_weeks
+WRC-1000,2018,Galway,Freelance digital,JustEat,Under 25,Platform won,False,Misclassification,20
+WRC-1001,2018,Kerry,Freelance digital,Other platform,Under 25,Withdrawn,False,Minimum wage,32
+WRC-1002,2018,Wicklow,Ride-hailing,Bolt,35-44,Platform won,False,Misclassification,12
+WRC-1003,2018,Cavan,Food delivery,Uber,25-34,Platform won,False,Misclassification,47
+WRC-1004,2018,Tipperary,Food delivery,Bolt,45+,Worker won,True,Holiday pay,33
+WRC-1005,2018,Cork,Freelance digital,Bolt,Under 25,Worker won,True,Unfair dismissal,44
+WRC-1006,2018,Sligo,Freelance digital,JustEat,25-34,Settled,False,Unfair dismissal,17
+WRC-1007,2018,Monaghan,Freelance digital,Unnamed employer,45+,Worker won,True,Minimum wage,26
+WRC-1008,2018,Galway,Care work,Other platform,Under 25,Worker won,True,Unfair dismissal,38
+WRC-1009,2018,Meath,Freelance digital,JustEat,25-34,Platform won,False,Misclassification,50
+WRC-1010,2018,Monaghan,Ride-hailing,Uber,Under 25,Worker won,True,Misclassification,14
+WRC-1011,2018,Dublin,Food delivery,Bolt,Under 25,Settled,False,Minimum wage,39
+WRC-1012,2018,Dublin,Food delivery,Unnamed employer,25-34,Withdrawn,False,Misclassification,38
+WRC-1013,2018,Limerick,Food delivery,Unnamed employer,45+,Withdrawn,False,Holiday pay,38
+WRC-1014,2018,Donegal,Logistics,Unnamed employer,Under 25,Settled,False,Minimum wage,41
+WRC-1015,2018,Kildare,Cleaning,JustEat,Under 25,Withdrawn,False,Minimum wage,45
+WRC-1016,2018,Cork,Ride-hailing,JustEat,Under 25,Platform won,False,Misclassification,13
+WRC-1017,2018,Kildare,Ride-hailing,JustEat,25-34,Settled,False,Misclassification,27
+WRC-1018,2018,Cork,Logistics,Unnamed employer,35-44,Settled,False,Minimum wage,5
+WRC-1019,2018,Louth,Ride-hailing,JustEat,35-44,Platform won,False,Holiday pay,46
+WRC-1020,2018,Wexford,Ride-hailing,Bolt,Under 25,Platform won,False,Unfair dismissal,14
+WRC-1021,2018,Dublin,Food delivery,Deliveroo,35-44,Settled,False,Holiday pay,48
+WRC-1022,2018,Meath,Food delivery,Deliveroo,25-34,Settled,False,Holiday pay,46
+WRC-1023,2018,Tipperary,Logistics,Unnamed employer,45+,Platform won,False,Minimum wage,44
+WRC-1024,2018,Carlow,Food delivery,Deliveroo,Under 25,Platform won,False,Misclassification,17
+WRC-1025,2018,Dublin,Food delivery,Bolt,25-34,Settled,False,Minimum wage,44
+WRC-1026,2019,Offaly,Food delivery,JustEat,Under 25,Worker won,True,Misclassification,15
+WRC-1027,2019,Wicklow,Ride-hailing,JustEat,25-34,Platform won,False,Misclassification,5
+WRC-1028,2019,Galway,Ride-hailing,Uber,25-34,Worker won,True,Minimum wage,24
+WRC-1029,2019,Cork,Food delivery,Deliveroo,Under 25,Settled,False,Unfair dismissal,51
+WRC-1030,2019,Dublin,Food delivery,Other platform,25-34,Settled,False,Minimum wage,29
+WRC-1031,2019,Cork,Food delivery,JustEat,25-34,Platform won,False,Minimum wage,11
+WRC-1032,2019,Dublin,Food delivery,Uber,Under 25,Platform won,False,Misclassification,18
+WRC-1033,2019,Dublin,Care work,Other platform,25-34,Settled,False,Misclassification,47
+WRC-1034,2019,Clare,Ride-hailing,Other platform,25-34,Platform won,False,Unfair dismissal,23
+WRC-1035,2019,Cork,Freelance digital,Unnamed employer,25-34,Worker won,True,Misclassification,28
+WRC-1036,2019,Limerick,Cleaning,Uber,25-34,Settled,False,Misclassification,4
+WRC-1037,2019,Galway,Food delivery,Deliveroo,45+,Platform won,False,Minimum wage,37
+WRC-1038,2019,Kilkenny,Food delivery,Deliveroo,Under 25,Withdrawn,False,Holiday pay,33
+WRC-1039,2019,Sligo,Freelance digital,JustEat,25-34,Worker won,True,Minimum wage,6
+WRC-1040,2019,Louth,Freelance digital,Uber,Under 25,Worker won,True,Minimum wage,40
+WRC-1041,2019,Dublin,Ride-hailing,Unnamed employer,Under 25,Withdrawn,False,Misclassification,10
+WRC-1042,2019,Kildare,Food delivery,Other platform,Under 25,Worker won,True,Holiday pay,5
+WRC-1043,2019,Limerick,Food delivery,Deliveroo,25-34,Settled,False,Misclassification,36
+WRC-1044,2019,Meath,Ride-hailing,Bolt,Under 25,Settled,False,Unfair dismissal,21
+WRC-1045,2019,Limerick,Cleaning,JustEat,25-34,Worker won,True,Unfair dismissal,51
+WRC-1046,2019,Meath,Logistics,Other platform,Under 25,Settled,False,Unfair dismissal,39
+WRC-1047,2019,Dublin,Ride-hailing,Bolt,25-34,Platform won,False,Unfair dismissal,5
+WRC-1048,2019,Meath,Cleaning,Bolt,25-34,Withdrawn,False,Minimum wage,5
+WRC-1049,2019,Waterford,Ride-hailing,JustEat,35-44,Settled,False,Misclassification,32
+WRC-1050,2019,Dublin,Food delivery,JustEat,Under 25,Worker won,True,Misclassification,44
+WRC-1051,2019,Kildare,Cleaning,Unnamed employer,25-34,Platform won,False,Minimum wage,5
+WRC-1052,2019,Dublin,Food delivery,Bolt,25-34,Worker won,True,Unfair dismissal,27
+WRC-1053,2020,Meath,Food delivery,Bolt,25-34,Worker won,True,Misclassification,7
+WRC-1054,2020,Cavan,Logistics,Uber,45+,Settled,False,Holiday pay,47
+WRC-1055,2020,Dublin,Cleaning,Deliveroo,25-34,Worker won,True,Minimum wage,49
+WRC-1056,2020,Galway,Cleaning,Other platform,Under 25,Platform won,False,Misclassification,32
+WRC-1057,2020,Dublin,Freelance digital,Bolt,25-34,Worker won,True,Minimum wage,27
+WRC-1058,2020,Cork,Food delivery,Deliveroo,35-44,Worker won,True,Misclassification,23
+WRC-1059,2020,Kerry,Food delivery,Other platform,25-34,Worker won,True,Holiday pay,42
+WRC-1060,2020,Cork,Logistics,Deliveroo,35-44,Worker won,True,Misclassification,35
+WRC-1061,2020,Dublin,Freelance digital,Unnamed employer,35-44,Platform won,False,Minimum wage,43
+WRC-1062,2020,Dublin,Logistics,JustEat,35-44,Settled,False,Minimum wage,30
+WRC-1063,2020,Waterford,Food delivery,Deliveroo,Under 25,Worker won,True,Minimum wage,12
+WRC-1064,2020,Dublin,Logistics,Uber,25-34,Worker won,True,Misclassification,19
+WRC-1065,2020,Kildare,Food delivery,Bolt,Under 25,Settled,False,Misclassification,25
+WRC-1066,2020,Meath,Food delivery,Deliveroo,Under 25,Worker won,True,Holiday pay,30
+WRC-1067,2020,Dublin,Food delivery,Bolt,25-34,Platform won,False,Unfair dismissal,37
+WRC-1068,2020,Waterford,Cleaning,Uber,Under 25,Settled,False,Misclassification,38
+WRC-1069,2020,Cavan,Food delivery,Bolt,Under 25,Platform won,False,Holiday pay,32
+WRC-1070,2020,Donegal,Freelance digital,Bolt,35-44,Worker won,True,Misclassification,26
+WRC-1071,2020,Donegal,Food delivery,Bolt,25-34,Worker won,True,Misclassification,36
+WRC-1072,2020,Mayo,Cleaning,Other platform,25-34,Worker won,True,Holiday pay,29
+WRC-1073,2020,Dublin,Food delivery,Other platform,Under 25,Settled,False,Misclassification,6
+WRC-1074,2020,Louth,Freelance digital,JustEat,25-34,Worker won,True,Misclassification,28
+WRC-1075,2020,Kerry,Freelance digital,JustEat,25-34,Worker won,True,Unfair dismissal,4
+WRC-1076,2020,Dublin,Food delivery,JustEat,35-44,Settled,False,Unfair dismissal,33
+WRC-1077,2020,Tipperary,Food delivery,Other platform,25-34,Worker won,True,Misclassification,27
+WRC-1078,2020,Galway,Ride-hailing,Other platform,Under 25,Settled,False,Holiday pay,48
+WRC-1079,2020,Meath,Logistics,Other platform,25-34,Worker won,True,Holiday pay,5
+WRC-1080,2020,Wicklow,Freelance digital,Deliveroo,Under 25,Withdrawn,False,Minimum wage,24
+WRC-1081,2020,Galway,Logistics,Deliveroo,Under 25,Worker won,True,Misclassification,27
+WRC-1082,2020,Galway,Cleaning,Uber,Under 25,Worker won,True,Holiday pay,38
+WRC-1083,2020,Kildare,Ride-hailing,Unnamed employer,45+,Settled,False,Misclassification,21
+WRC-1084,2020,Dublin,Food delivery,Other platform,Under 25,Platform won,False,Misclassification,50
+WRC-1085,2020,Dublin,Care work,Bolt,Under 25,Platform won,False,Minimum wage,34
+WRC-1086,2021,Kildare,Ride-hailing,Bolt,25-34,Settled,False,Holiday pay,32
+WRC-1087,2021,Louth,Cleaning,Bolt,25-34,Settled,False,Minimum wage,19
+WRC-1088,2021,Dublin,Cleaning,Uber,Under 25,Platform won,False,Minimum wage,12
+WRC-1089,2021,Offaly,Care work,Uber,Under 25,Settled,False,Misclassification,25
+WRC-1090,2021,Longford,Food delivery,Uber,Under 25,Platform won,False,Holiday pay,27
+WRC-1091,2021,Roscommon,Care work,Uber,35-44,Withdrawn,False,Misclassification,43
+WRC-1092,2021,Cork,Food delivery,JustEat,35-44,Settled,False,Holiday pay,14
+WRC-1093,2021,Wexford,Food delivery,JustEat,25-34,Settled,False,Minimum wage,12
+WRC-1094,2021,Dublin,Food delivery,Bolt,25-34,Worker won,True,Holiday pay,15
+WRC-1095,2021,Dublin,Logistics,Deliveroo,25-34,Worker won,True,Minimum wage,37
+WRC-1096,2021,Cork,Care work,Uber,35-44,Settled,False,Misclassification,15
+WRC-1097,2021,Dublin,Food delivery,JustEat,25-34,Worker won,True,Minimum wage,41
+WRC-1098,2021,Clare,Ride-hailing,JustEat,Under 25,Worker won,True,Minimum wage,35
+WRC-1099,2021,Cork,Food delivery,Deliveroo,25-34,Worker won,True,Holiday pay,31
+WRC-1100,2021,Kerry,Cleaning,Unnamed employer,Under 25,Worker won,True,Misclassification,46
+WRC-1101,2021,Cork,Food delivery,JustEat,Under 25,Worker won,True,Holiday pay,45
+WRC-1102,2021,Cork,Care work,JustEat,Under 25,Worker won,True,Misclassification,9
+WRC-1103,2021,Dublin,Ride-hailing,Unnamed employer,45+,Withdrawn,False,Misclassification,25
+WRC-1104,2021,Dublin,Food delivery,Bolt,25-34,Worker won,True,Minimum wage,32
+WRC-1105,2021,Mayo,Ride-hailing,JustEat,25-34,Settled,False,Misclassification,20
+WRC-1106,2021,Cork,Ride-hailing,Uber,25-34,Withdrawn,False,Misclassification,5
+WRC-1107,2021,Roscommon,Freelance digital,JustEat,Under 25,Platform won,False,Minimum wage,51
+WRC-1108,2021,Meath,Logistics,Unnamed employer,45+,Settled,False,Misclassification,12
+WRC-1109,2021,Roscommon,Ride-hailing,Bolt,25-34,Worker won,True,Misclassification,5
+WRC-1110,2021,Wexford,Freelance digital,JustEat,35-44,Worker won,True,Holiday pay,43
+WRC-1111,2021,Limerick,Ride-hailing,Bolt,35-44,Worker won,True,Minimum wage,4
+WRC-1112,2021,Meath,Food delivery,Other platform,45+,Worker won,True,Misclassification,34
+WRC-1113,2021,Dublin,Care work,Uber,25-34,Platform won,False,Misclassification,5
+WRC-1114,2021,Laois,Care work,Uber,Under 25,Platform won,False,Minimum wage,25
+WRC-1115,2021,Cork,Freelance digital,Other platform,45+,Worker won,True,Misclassification,49
+WRC-1116,2021,Kildare,Freelance digital,Other platform,Under 25,Worker won,True,Misclassification,20
+WRC-1117,2021,Galway,Food delivery,JustEat,35-44,Platform won,False,Misclassification,45
+WRC-1118,2021,Westmeath,Ride-hailing,Bolt,25-34,Settled,False,Misclassification,19
+WRC-1119,2021,Dublin,Food delivery,Other platform,Under 25,Settled,False,Unfair dismissal,43
+WRC-1120,2021,Wicklow,Food delivery,Deliveroo,Under 25,Worker won,True,Minimum wage,50
+WRC-1121,2021,Dublin,Ride-hailing,Deliveroo,25-34,Worker won,True,Misclassification,51
+WRC-1122,2021,Dublin,Food delivery,JustEat,45+,Settled,False,Misclassification,18
+WRC-1123,2021,Waterford,Freelance digital,Deliveroo,25-34,Worker won,True,Misclassification,30
+WRC-1124,2021,Kerry,Cleaning,JustEat,45+,Worker won,True,Misclassification,14
+WRC-1125,2021,Cork,Freelance digital,Uber,25-34,Worker won,True,Unfair dismissal,47
+WRC-1126,2021,Mayo,Food delivery,Other platform,35-44,Worker won,True,Holiday pay,14
+WRC-1127,2021,Cork,Cleaning,JustEat,45+,Platform won,False,Minimum wage,40
+WRC-1128,2021,Meath,Ride-hailing,Deliveroo,25-34,Worker won,True,Misclassification,26
+WRC-1129,2021,Waterford,Ride-hailing,Bolt,Under 25,Withdrawn,False,Holiday pay,12
+WRC-1130,2021,Cork,Ride-hailing,Uber,25-34,Settled,False,Minimum wage,49
+WRC-1131,2021,Galway,Cleaning,Bolt,Under 25,Withdrawn,False,Minimum wage,24
+WRC-1132,2021,Kerry,Freelance digital,Bolt,25-34,Platform won,False,Minimum wage,51
+WRC-1133,2021,Cork,Freelance digital,Other platform,25-34,Settled,False,Misclassification,34
+WRC-1134,2021,Dublin,Logistics,Unnamed employer,25-34,Platform won,False,Holiday pay,20
+WRC-1135,2021,Kerry,Freelance digital,Bolt,Under 25,Settled,False,Misclassification,40
+WRC-1136,2022,Dublin,Ride-hailing,Unnamed employer,Under 25,Platform won,False,Minimum wage,44
+WRC-1137,2022,Meath,Freelance digital,JustEat,Under 25,Worker won,True,Minimum wage,16
+WRC-1138,2022,Dublin,Ride-hailing,Uber,25-34,Settled,False,Misclassification,24
+WRC-1139,2022,Cork,Food delivery,Bolt,Under 25,Worker won,True,Minimum wage,6
+WRC-1140,2022,Galway,Ride-hailing,Deliveroo,Under 25,Settled,False,Minimum wage,45
+WRC-1141,2022,Cork,Care work,JustEat,35-44,Platform won,False,Minimum wage,35
+WRC-1142,2022,Dublin,Food delivery,Unnamed employer,Under 25,Platform won,False,Misclassification,45
+WRC-1143,2022,Cavan,Food delivery,Unnamed employer,45+,Platform won,False,Minimum wage,29
+WRC-1144,2022,Carlow,Freelance digital,Uber,25-34,Settled,False,Unfair dismissal,16
+WRC-1145,2022,Dublin,Cleaning,Other platform,25-34,Platform won,False,Minimum wage,10
+WRC-1146,2022,Galway,Ride-hailing,Deliveroo,Under 25,Worker won,True,Minimum wage,9
+WRC-1147,2022,Waterford,Cleaning,Other platform,Under 25,Worker won,True,Minimum wage,15
+WRC-1148,2022,Tipperary,Ride-hailing,Deliveroo,25-34,Worker won,True,Holiday pay,40
+WRC-1149,2022,Leitrim,Cleaning,Other platform,25-34,Worker won,True,Minimum wage,23
+WRC-1150,2022,Dublin,Logistics,Uber,25-34,Worker won,True,Holiday pay,36
+WRC-1151,2022,Louth,Food delivery,JustEat,Under 25,Withdrawn,False,Unfair dismissal,17
+WRC-1152,2022,Galway,Ride-hailing,Deliveroo,25-34,Worker won,True,Minimum wage,22
+WRC-1153,2022,Kerry,Care work,Deliveroo,Under 25,Worker won,True,Unfair dismissal,6
+WRC-1154,2022,Kildare,Cleaning,JustEat,Under 25,Worker won,True,Minimum wage,18
+WRC-1155,2022,Kildare,Logistics,Unnamed employer,35-44,Worker won,True,Unfair dismissal,21
+WRC-1156,2022,Roscommon,Food delivery,Bolt,35-44,Settled,False,Minimum wage,16
+WRC-1157,2022,Dublin,Food delivery,JustEat,25-34,Withdrawn,False,Minimum wage,21
+WRC-1158,2022,Dublin,Freelance digital,Uber,25-34,Platform won,False,Misclassification,6
+WRC-1159,2022,Dublin,Food delivery,Other platform,25-34,Platform won,False,Unfair dismissal,25
+WRC-1160,2022,Cork,Logistics,Other platform,25-34,Settled,False,Misclassification,21
+WRC-1161,2022,Dublin,Logistics,Unnamed employer,Under 25,Settled,False,Misclassification,29
+WRC-1162,2022,Kildare,Food delivery,Deliveroo,25-34,Withdrawn,False,Minimum wage,4
+WRC-1163,2022,Cork,Care work,Unnamed employer,25-34,Settled,False,Misclassification,35
+WRC-1164,2022,Westmeath,Food delivery,Other platform,35-44,Settled,False,Unfair dismissal,44
+WRC-1165,2022,Kilkenny,Ride-hailing,Uber,Under 25,Platform won,False,Misclassification,10
+WRC-1166,2022,Roscommon,Cleaning,Other platform,25-34,Platform won,False,Unfair dismissal,4
+WRC-1167,2022,Dublin,Logistics,Other platform,25-34,Worker won,True,Holiday pay,27
+WRC-1168,2022,Dublin,Freelance digital,Uber,35-44,Withdrawn,False,Holiday pay,16
+WRC-1169,2022,Cavan,Ride-hailing,JustEat,45+,Settled,False,Minimum wage,22
+WRC-1170,2022,Cork,Ride-hailing,Other platform,25-34,Withdrawn,False,Misclassification,48
+WRC-1171,2022,Galway,Ride-hailing,Unnamed employer,Under 25,Platform won,False,Holiday pay,17
+WRC-1172,2022,Donegal,Ride-hailing,Deliveroo,Under 25,Settled,False,Minimum wage,41
+WRC-1173,2022,Kildare,Food delivery,Other platform,Under 25,Worker won,True,Misclassification,36
+WRC-1174,2022,Cork,Food delivery,Uber,25-34,Worker won,True,Minimum wage,25
+WRC-1175,2022,Dublin,Food delivery,Uber,35-44,Platform won,False,Holiday pay,42
+WRC-1176,2022,Roscommon,Food delivery,JustEat,35-44,Platform won,False,Misclassification,48
+WRC-1177,2022,Galway,Freelance digital,Uber,25-34,Worker won,True,Minimum wage,24
+WRC-1178,2022,Meath,Food delivery,Deliveroo,25-34,Worker won,True,Misclassification,22
+WRC-1179,2022,Louth,Care work,Bolt,25-34,Worker won,True,Misclassification,44
+WRC-1180,2022,Mayo,Cleaning,Unnamed employer,25-34,Worker won,True,Minimum wage,14
+WRC-1181,2022,Dublin,Care work,Unnamed employer,Under 25,Worker won,True,Misclassification,17
+WRC-1182,2022,Dublin,Logistics,Unnamed employer,Under 25,Settled,False,Misclassification,13
+WRC-1183,2022,Dublin,Ride-hailing,Deliveroo,Under 25,Settled,False,Holiday pay,23
+WRC-1184,2022,Carlow,Cleaning,Deliveroo,Under 25,Platform won,False,Minimum wage,26
+WRC-1185,2022,Dublin,Care work,Uber,45+,Platform won,False,Unfair dismissal,36
+WRC-1186,2022,Galway,Food delivery,Bolt,Under 25,Settled,False,Misclassification,23
+WRC-1187,2022,Kilkenny,Logistics,Uber,Under 25,Platform won,False,Misclassification,13
+WRC-1188,2022,Mayo,Care work,Uber,Under 25,Platform won,False,Minimum wage,9
+WRC-1189,2022,Wexford,Food delivery,JustEat,35-44,Withdrawn,False,Misclassification,36
+WRC-1190,2022,Dublin,Freelance digital,Unnamed employer,35-44,Platform won,False,Unfair dismissal,29
+WRC-1191,2023,Dublin,Logistics,Unnamed employer,Under 25,Platform won,False,Minimum wage,31
+WRC-1192,2023,Waterford,Ride-hailing,Bolt,45+,Withdrawn,False,Holiday pay,44
+WRC-1193,2023,Dublin,Cleaning,Deliveroo,45+,Platform won,False,Holiday pay,46
+WRC-1194,2023,Westmeath,Freelance digital,Other platform,25-34,Platform won,False,Misclassification,24
+WRC-1195,2023,Longford,Ride-hailing,Other platform,Under 25,Settled,False,Holiday pay,36
+WRC-1196,2023,Dublin,Freelance digital,Bolt,Under 25,Platform won,False,Misclassification,41
+WRC-1197,2023,Dublin,Ride-hailing,Other platform,Under 25,Platform won,False,Unfair dismissal,40
+WRC-1198,2023,Mayo,Ride-hailing,JustEat,25-34,Settled,False,Misclassification,37
+WRC-1199,2023,Meath,Food delivery,Unnamed employer,Under 25,Worker won,True,Holiday pay,25
+WRC-1200,2023,Monaghan,Cleaning,Deliveroo,25-34,Platform won,False,Minimum wage,30
+WRC-1201,2023,Dublin,Freelance digital,Unnamed employer,Under 25,Withdrawn,False,Misclassification,36
+WRC-1202,2023,Dublin,Freelance digital,Other platform,45+,Settled,False,Minimum wage,39
+WRC-1203,2023,Kildare,Food delivery,Deliveroo,Under 25,Platform won,False,Misclassification,12
+WRC-1204,2023,Wicklow,Ride-hailing,Deliveroo,25-34,Settled,False,Holiday pay,34
+WRC-1205,2023,Waterford,Cleaning,Deliveroo,45+,Worker won,True,Misclassification,30
+WRC-1206,2023,Dublin,Food delivery,JustEat,Under 25,Platform won,False,Minimum wage,49
+WRC-1207,2023,Clare,Logistics,Bolt,Under 25,Platform won,False,Misclassification,6
+WRC-1208,2023,Waterford,Logistics,Bolt,Under 25,Worker won,True,Minimum wage,38
+WRC-1209,2023,Kilkenny,Food delivery,Uber,35-44,Platform won,False,Minimum wage,34
+WRC-1210,2023,Kildare,Food delivery,JustEat,Under 25,Settled,False,Minimum wage,45
+WRC-1211,2023,Cork,Food delivery,Other platform,Under 25,Worker won,True,Misclassification,37
+WRC-1212,2023,Cavan,Freelance digital,Deliveroo,Under 25,Worker won,True,Minimum wage,7
+WRC-1213,2023,Louth,Ride-hailing,Uber,Under 25,Worker won,True,Unfair dismissal,12
+WRC-1214,2023,Waterford,Freelance digital,Uber,Under 25,Settled,False,Misclassification,8
+WRC-1215,2023,Offaly,Food delivery,JustEat,Under 25,Platform won,False,Minimum wage,25
+WRC-1216,2023,Dublin,Freelance digital,Uber,25-34,Platform won,False,Minimum wage,5
+WRC-1217,2023,Galway,Food delivery,JustEat,35-44,Worker won,True,Misclassification,29
+WRC-1218,2023,Cork,Ride-hailing,Bolt,35-44,Platform won,False,Holiday pay,47
+WRC-1219,2023,Carlow,Food delivery,Other platform,35-44,Settled,False,Misclassification,19
+WRC-1220,2023,Donegal,Ride-hailing,JustEat,25-34,Worker won,True,Misclassification,17
+WRC-1221,2023,Limerick,Ride-hailing,Deliveroo,45+,Settled,False,Unfair dismissal,5
+WRC-1222,2023,Meath,Food delivery,Bolt,Under 25,Worker won,True,Holiday pay,38
+WRC-1223,2023,Wicklow,Cleaning,Bolt,25-34,Platform won,False,Misclassification,5
+WRC-1224,2023,Cork,Ride-hailing,Deliveroo,35-44,Worker won,True,Unfair dismissal,14
+WRC-1225,2023,Kerry,Cleaning,Deliveroo,25-34,Worker won,True,Unfair dismissal,36
+WRC-1226,2023,Dublin,Cleaning,Other platform,Under 25,Worker won,True,Misclassification,6
+WRC-1227,2023,Dublin,Freelance digital,Deliveroo,45+,Settled,False,Minimum wage,42
+WRC-1228,2023,Offaly,Logistics,Bolt,Under 25,Worker won,True,Minimum wage,7
+WRC-1229,2023,Cork,Food delivery,Uber,Under 25,Settled,False,Misclassification,8
+WRC-1230,2023,Cork,Cleaning,Bolt,45+,Settled,False,Misclassification,17
+WRC-1231,2023,Dublin,Food delivery,Unnamed employer,25-34,Worker won,True,Misclassification,33
+WRC-1232,2023,Cork,Food delivery,Bolt,Under 25,Worker won,True,Minimum wage,23
+WRC-1233,2023,Monaghan,Cleaning,Deliveroo,Under 25,Worker won,True,Unfair dismissal,18
+WRC-1234,2023,Waterford,Food delivery,JustEat,Under 25,Settled,False,Misclassification,23
+WRC-1235,2023,Tipperary,Logistics,JustEat,Under 25,Withdrawn,False,Misclassification,11
+WRC-1236,2023,Dublin,Care work,Bolt,25-34,Settled,False,Minimum wage,22
+WRC-1237,2023,Wicklow,Logistics,Other platform,25-34,Withdrawn,False,Minimum wage,4
+WRC-1238,2023,Wicklow,Freelance digital,Unnamed employer,25-34,Platform won,False,Misclassification,42
+WRC-1239,2023,Wexford,Ride-hailing,Bolt,25-34,Worker won,True,Misclassification,40
+WRC-1240,2023,Limerick,Logistics,Bolt,45+,Settled,False,Minimum wage,10
+WRC-1241,2024,Limerick,Care work,Deliveroo,Under 25,Withdrawn,False,Misclassification,33
+WRC-1242,2024,Dublin,Food delivery,Bolt,45+,Worker won,True,Unfair dismissal,15
+WRC-1243,2024,Meath,Freelance digital,Uber,Under 25,Worker won,True,Unfair dismissal,48
+WRC-1244,2024,Tipperary,Logistics,JustEat,Under 25,Platform won,False,Holiday pay,23
+WRC-1245,2024,Galway,Logistics,Other platform,35-44,Worker won,True,Minimum wage,37
+WRC-1246,2024,Dublin,Cleaning,Unnamed employer,45+,Settled,False,Misclassification,43
+WRC-1247,2024,Dublin,Freelance digital,Other platform,25-34,Withdrawn,False,Misclassification,32
+WRC-1248,2024,Wexford,Care work,Other platform,25-34,Worker won,True,Misclassification,29
+WRC-1249,2024,Dublin,Food delivery,Deliveroo,Under 25,Settled,False,Holiday pay,32
+WRC-1250,2024,Meath,Cleaning,Bolt,Under 25,Worker won,True,Minimum wage,34
+WRC-1251,2024,Donegal,Logistics,JustEat,25-34,Platform won,False,Misclassification,47
+WRC-1252,2024,Galway,Ride-hailing,Deliveroo,25-34,Settled,False,Misclassification,20
+WRC-1253,2024,Dublin,Food delivery,JustEat,25-34,Worker won,True,Holiday pay,22
+WRC-1254,2024,Kildare,Food delivery,Deliveroo,Under 25,Platform won,False,Minimum wage,10
+WRC-1255,2024,Longford,Logistics,Uber,45+,Platform won,False,Misclassification,19
+WRC-1256,2024,Waterford,Food delivery,Unnamed employer,45+,Worker won,True,Holiday pay,16
+WRC-1257,2024,Mayo,Food delivery,Other platform,25-34,Settled,False,Holiday pay,17
+WRC-1258,2024,Sligo,Freelance digital,Bolt,25-34,Platform won,False,Holiday pay,13
+WRC-1259,2024,Waterford,Ride-hailing,Deliveroo,45+,Worker won,True,Minimum wage,15
+WRC-1260,2024,Dublin,Ride-hailing,Deliveroo,25-34,Settled,False,Misclassification,10
+WRC-1261,2024,Kildare,Food delivery,JustEat,35-44,Worker won,True,Minimum wage,36
+WRC-1262,2024,Leitrim,Food delivery,JustEat,25-34,Settled,False,Misclassification,24
+WRC-1263,2024,Tipperary,Food delivery,Unnamed employer,35-44,Platform won,False,Minimum wage,46
+WRC-1264,2024,Dublin,Cleaning,Uber,Under 25,Settled,False,Misclassification,20
+WRC-1265,2024,Monaghan,Freelance digital,Uber,25-34,Platform won,False,Misclassification,7
+WRC-1266,2024,Limerick,Logistics,Deliveroo,45+,Platform won,False,Minimum wage,38
+WRC-1267,2024,Galway,Food delivery,Uber,45+,Settled,False,Unfair dismissal,26
+WRC-1268,2024,Louth,Freelance digital,Other platform,25-34,Settled,False,Misclassification,26
+WRC-1269,2024,Dublin,Ride-hailing,JustEat,25-34,Worker won,True,Minimum wage,11
+WRC-1270,2024,Waterford,Food delivery,JustEat,35-44,Worker won,True,Holiday pay,40
+WRC-1271,2024,Dublin,Logistics,Other platform,25-34,Settled,False,Unfair dismissal,34
+WRC-1272,2024,Meath,Care work,JustEat,Under 25,Worker won,True,Minimum wage,29
+WRC-1273,2024,Donegal,Care work,Uber,45+,Worker won,True,Misclassification,33
+WRC-1274,2024,Dublin,Freelance digital,JustEat,Under 25,Settled,False,Misclassification,19
+WRC-1275,2024,Kildare,Logistics,Other platform,Under 25,Platform won,False,Minimum wage,23
+WRC-1276,2024,Dublin,Care work,Other platform,Under 25,Platform won,False,Holiday pay,50
+WRC-1277,2024,Louth,Ride-hailing,JustEat,Under 25,Withdrawn,False,Minimum wage,15
+WRC-1278,2024,Kildare,Cleaning,Deliveroo,Under 25,Settled,False,Minimum wage,5
+WRC-1279,2024,Louth,Freelance digital,Uber,Under 25,Worker won,True,Unfair dismissal,43
+WRC-1280,2024,Louth,Food delivery,Deliveroo,Under 25,Settled,False,Holiday pay,38
+WRC-1281,2024,Kildare,Freelance digital,Uber,35-44,Worker won,True,Minimum wage,13
+WRC-1282,2024,Dublin,Food delivery,Unnamed employer,45+,Platform won,False,Misclassification,37
+WRC-1283,2024,Kilkenny,Freelance digital,Deliveroo,25-34,Platform won,False,Minimum wage,15
+WRC-1284,2024,Cavan,Care work,Other platform,35-44,Platform won,False,Unfair dismissal,24
+WRC-1285,2024,Meath,Ride-hailing,Other platform,45+,Worker won,True,Unfair dismissal,29
+WRC-1286,2024,Dublin,Cleaning,Unnamed employer,25-34,Worker won,True,Misclassification,12
+WRC-1287,2024,Wexford,Cleaning,Other platform,25-34,Settled,False,Minimum wage,50
+WRC-1288,2024,Cork,Freelance digital,Uber,35-44,Worker won,True,Unfair dismissal,23
+WRC-1289,2024,Dublin,Freelance digital,Uber,25-34,Worker won,True,Minimum wage,7
+WRC-1290,2024,Carlow,Freelance digital,Unnamed employer,25-34,Worker won,True,Minimum wage,9
+WRC-1291,2024,Dublin,Food delivery,Bolt,Under 25,Settled,False,Misclassification,50
+WRC-1292,2024,Kilkenny,Care work,JustEat,25-34,Worker won,True,Minimum wage,30
+WRC-1293,2024,Kildare,Cleaning,Deliveroo,45+,Worker won,True,Unfair dismissal,29
+WRC-1294,2024,Galway,Ride-hailing,Deliveroo,25-34,Platform won,False,Holiday pay,42
+WRC-1295,2024,Mayo,Ride-hailing,Bolt,Under 25,Worker won,True,Minimum wage,27
+WRC-1296,2025,Waterford,Food delivery,Other platform,Under 25,Platform won,False,Misclassification,31
+WRC-1297,2025,Cork,Care work,Uber,25-34,Settled,False,Unfair dismissal,17
+WRC-1298,2025,Dublin,Logistics,JustEat,25-34,Settled,False,Misclassification,23
+WRC-1299,2025,Clare,Cleaning,Bolt,25-34,Settled,False,Misclassification,22
+WRC-1300,2025,Wicklow,Food delivery,Other platform,Under 25,Worker won,True,Minimum wage,38
+WRC-1301,2025,Galway,Care work,JustEat,25-34,Platform won,False,Minimum wage,48
+WRC-1302,2025,Dublin,Ride-hailing,Deliveroo,35-44,Platform won,False,Holiday pay,18
+WRC-1303,2025,Kilkenny,Logistics,Bolt,25-34,Worker won,True,Misclassification,51
+WRC-1304,2025,Galway,Freelance digital,Deliveroo,25-34,Worker won,True,Minimum wage,41
+WRC-1305,2025,Dublin,Freelance digital,Bolt,25-34,Worker won,True,Misclassification,30
+WRC-1306,2025,Carlow,Freelance digital,Deliveroo,45+,Settled,False,Minimum wage,49
+WRC-1307,2025,Cork,Logistics,Bolt,25-34,Worker won,True,Misclassification,49
+WRC-1308,2025,Cork,Care work,Uber,Under 25,Worker won,True,Holiday pay,21
+WRC-1309,2025,Mayo,Ride-hailing,Deliveroo,35-44,Worker won,True,Minimum wage,45
+WRC-1310,2025,Dublin,Cleaning,Unnamed employer,Under 25,Platform won,False,Holiday pay,41
+WRC-1311,2025,Westmeath,Ride-hailing,Other platform,Under 25,Platform won,False,Holiday pay,20
+WRC-1312,2025,Dublin,Ride-hailing,Uber,25-34,Settled,False,Minimum wage,33
+WRC-1313,2025,Cork,Care work,Deliveroo,25-34,Platform won,False,Holiday pay,19
+WRC-1314,2025,Dublin,Logistics,Deliveroo,25-34,Settled,False,Minimum wage,46
+WRC-1315,2025,Louth,Ride-hailing,Deliveroo,Under 25,Settled,False,Misclassification,12
+WRC-1316,2025,Limerick,Freelance digital,Uber,Under 25,Platform won,False,Holiday pay,6
+WRC-1317,2025,Mayo,Logistics,Bolt,35-44,Worker won,True,Minimum wage,5
+WRC-1318,2025,Wicklow,Food delivery,JustEat,25-34,Platform won,False,Misclassification,38
+WRC-1319,2025,Dublin,Cleaning,Bolt,45+,Worker won,True,Holiday pay,26
+WRC-1320,2025,Dublin,Care work,Bolt,25-34,Worker won,True,Holiday pay,37
+WRC-1321,2025,Dublin,Freelance digital,Deliveroo,25-34,Platform won,False,Minimum wage,24
+WRC-1322,2025,Cork,Food delivery,Deliveroo,Under 25,Settled,False,Minimum wage,39
+WRC-1323,2025,Dublin,Freelance digital,Deliveroo,25-34,Settled,False,Holiday pay,48
+WRC-1324,2025,Cork,Food delivery,JustEat,25-34,Worker won,True,Holiday pay,10
+WRC-1325,2025,Offaly,Care work,Other platform,Under 25,Platform won,False,Misclassification,39
+WRC-1326,2025,Dublin,Ride-hailing,Other platform,35-44,Worker won,True,Minimum wage,20
+WRC-1327,2025,Galway,Cleaning,Unnamed employer,45+,Worker won,True,Misclassification,21
+WRC-1328,2025,Clare,Freelance digital,JustEat,Under 25,Settled,False,Minimum wage,30
+WRC-1329,2025,Galway,Ride-hailing,Uber,Under 25,Worker won,True,Misclassification,18
+WRC-1330,2025,Wicklow,Ride-hailing,Bolt,45+,Withdrawn,False,Minimum wage,16
+WRC-1331,2025,Kildare,Food delivery,Other platform,35-44,Settled,False,Misclassification,19
+WRC-1332,2025,Clare,Freelance digital,JustEat,Under 25,Platform won,False,Misclassification,36
+WRC-1333,2025,Dublin,Freelance digital,Bolt,25-34,Settled,False,Misclassification,12
+WRC-1334,2025,Meath,Food delivery,Bolt,Under 25,Platform won,False,Misclassification,20
+WRC-1335,2025,Kildare,Freelance digital,Other platform,Under 25,Platform won,False,Misclassification,36
+WRC-1336,2025,Waterford,Food delivery,Uber,45+,Worker won,True,Misclassification,34
+WRC-1337,2025,Galway,Food delivery,JustEat,Under 25,Worker won,True,Misclassification,49
+WRC-1338,2025,Galway,Food delivery,Unnamed employer,Under 25,Worker won,True,Misclassification,25
+WRC-1339,2025,Cork,Freelance digital,Other platform,45+,Platform won,False,Misclassification,24
+WRC-1340,2025,Carlow,Care work,JustEat,Under 25,Worker won,True,Unfair dismissal,6
+WRC-1341,2025,Dublin,Freelance digital,Deliveroo,Under 25,Worker won,True,Misclassification,21
+WRC-1342,2025,Donegal,Food delivery,Bolt,Under 25,Settled,False,Minimum wage,10
+WRC-1343,2025,Dublin,Freelance digital,Unnamed employer,45+,Worker won,True,Unfair dismissal,6
+WRC-1344,2025,Donegal,Food delivery,Uber,Under 25,Worker won,True,Holiday pay,40
+WRC-1345,2025,Galway,Freelance digital,JustEat,25-34,Worker won,True,Minimum wage,13
+WRC-1346,2025,Dublin,Ride-hailing,Deliveroo,25-34,Settled,False,Misclassification,38
+WRC-1347,2025,Waterford,Food delivery,Other platform,Under 25,Withdrawn,False,Unfair dismissal,18
+WRC-1348,2025,Dublin,Food delivery,Deliveroo,25-34,Platform won,False,Holiday pay,46
+WRC-1349,2025,Limerick,Freelance digital,Unnamed employer,25-34,Worker won,True,Minimum wage,28

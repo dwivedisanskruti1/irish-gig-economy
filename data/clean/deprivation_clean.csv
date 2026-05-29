@@ -1,0 +1,27 @@
+county,deprivation_score,deprivation_category,urbanisation_rate,population_weight
+Dublin,18.2,Affluent,95.0,5.0
+Cork,22.4,Marginally above average,72.0,2.2
+Galway,26.1,Marginally below average,58.0,1.3
+Limerick,28.7,Marginally below average,62.0,0.9
+Waterford,27.9,Marginally below average,55.0,0.7
+Kildare,15.3,Affluent,68.0,1.0
+Meath,16.8,Affluent,52.0,0.9
+Wicklow,19.2,Affluent,48.0,0.8
+Louth,24.5,Marginally above average,63.0,0.7
+Wexford,29.3,Marginally below average,42.0,0.6
+Tipperary,31.2,Disadvantaged,35.0,0.6
+Kerry,33.8,Disadvantaged,31.0,0.6
+Clare,28.4,Marginally below average,38.0,0.5
+Kilkenny,25.6,Marginally below average,39.0,0.5
+Westmeath,27.1,Marginally below average,44.0,0.4
+Offaly,30.5,Disadvantaged,38.0,0.4
+Cavan,34.2,Disadvantaged,28.0,0.3
+Donegal,38.6,Very disadvantaged,22.0,0.5
+Mayo,37.1,Very disadvantaged,25.0,0.5
+Sligo,32.4,Disadvantaged,34.0,0.3
+Roscommon,35.8,Disadvantaged,21.0,0.3
+Longford,39.1,Very disadvantaged,32.0,0.2
+Leitrim,40.3,Very disadvantaged,18.0,0.2
+Monaghan,33.7,Disadvantaged,26.0,0.3
+Laois,29.8,Marginally below average,36.0,0.3
+Carlow,28.9,Marginally below average,41.0,0.3

@@ -1,0 +1,15 @@
+Irish Gig Economy — Risk Classification Model
+Model: Logistic Regression
+Training period: 2022–2024
+Prediction year: 2025
+Features: deprivation_score, urbanisation_rate, avg_employment_rate_u27, official_self_emp_u27, platform_share_pct, total_cases, worker_win_rate, gig_yoy_growth
+Cross-val F1: 0.716
+
+              precision    recall  f1-score   support
+
+    Low risk       0.80      0.50      0.62         8
+   High risk       0.81      0.94      0.87        18
+
+    accuracy                           0.81        26
+   macro avg       0.80      0.72      0.74        26
+weighted avg       0.81      0.81      0.79        26
